@@ -11,7 +11,7 @@
     System Type     :   64-bit Operating System
     OS              :   Windows 10 Home Single
 ===========================================================================================
-[FOLDER STUCTURE]
+[FOLDER STUCTURE haego bhai log ]
 ├── api
 │   └── routes
 │       ├── api_handler.py
